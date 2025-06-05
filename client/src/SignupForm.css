@@ -1,0 +1,69 @@
+/* signupForm.css */
+
+/* Apply general styles to the form */
+.signup-page {
+  background-color: #40e317
+
+}
+.navbar {
+  background-color: #1832d8; /* Dark background color */
+  height: 60px; /* Fixed height */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+
+
+.signup-form {
+    max-width: 400px;
+    margin: 2rem auto;
+    padding: 2rem;
+    border-radius: 5px;
+    background-color: #f5f6fc;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Style the form header */
+  .signup-form h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+  
+  /* Style each form group */
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  /* Style the labels */
+  .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Style the inputs */
+  .form-group input {
+    width: 100%;
+    padding: 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Style the submit button */
+  .signup-form button {
+    width: 100%;
+    padding: 1rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #0056b3;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  /* Change button background color on hover */
+  .signup-form button:hover {
+    background-color: #003d82;
+  }
+  
