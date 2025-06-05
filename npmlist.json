@@ -1,0 +1,67 @@
+{
+  "name": "shipping-website",
+  "problems": [
+    "extraneous: js-cookie@3.0.5 D:\\Codes\\shipping-website\\node_modules\\js-cookie"
+  ],
+  "dependencies": {
+    "@babel/core": {
+      "version": "7.24.4",
+      "resolved": "https://registry.npmjs.org/@babel/core/-/core-7.24.4.tgz",
+      "overridden": false
+    },
+    "@babel/preset-env": {
+      "version": "7.24.4",
+      "resolved": "https://registry.npmjs.org/@babel/preset-env/-/preset-env-7.24.4.tgz",
+      "overridden": false
+    },
+    "@react-google-maps/api": {
+      "version": "2.19.3",
+      "resolved": "https://registry.npmjs.org/@react-google-maps/api/-/api-2.19.3.tgz",
+      "overridden": false
+    },
+    "axios": {
+      "version": "1.6.8",
+      "resolved": "https://registry.npmjs.org/axios/-/axios-1.6.8.tgz",
+      "overridden": false
+    },
+    "babel-loader": {
+      "version": "9.1.3",
+      "resolved": "https://registry.npmjs.org/babel-loader/-/babel-loader-9.1.3.tgz",
+      "overridden": false
+    },
+    "deck.gl": {
+      "version": "9.0.7",
+      "resolved": "https://registry.npmjs.org/deck.gl/-/deck.gl-9.0.7.tgz",
+      "overridden": false
+    },
+    "js-cookie": {
+      "version": "3.0.5",
+      "resolved": "https://registry.npmjs.org/js-cookie/-/js-cookie-3.0.5.tgz",
+      "overridden": false,
+      "extraneous": true,
+      "problems": [
+        "extraneous: js-cookie@3.0.5 D:\\Codes\\shipping-website\\node_modules\\js-cookie"
+      ]
+    },
+    "leaflet-routing-machine": {
+      "version": "3.2.12",
+      "resolved": "https://registry.npmjs.org/leaflet-routing-machine/-/leaflet-routing-machine-3.2.12.tgz",
+      "overridden": false
+    },
+    "leaflet": {
+      "version": "1.9.4",
+      "resolved": "https://registry.npmjs.org/leaflet/-/leaflet-1.9.4.tgz",
+      "overridden": false
+    },
+    "react-leaflet": {
+      "version": "4.2.1",
+      "resolved": "https://registry.npmjs.org/react-leaflet/-/react-leaflet-4.2.1.tgz",
+      "overridden": false
+    },
+    "webpack": {
+      "version": "5.91.0",
+      "resolved": "https://registry.npmjs.org/webpack/-/webpack-5.91.0.tgz",
+      "overridden": false
+    }
+  }
+}
